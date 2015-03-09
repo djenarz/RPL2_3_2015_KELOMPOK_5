@@ -1,6 +1,9 @@
 <?php
- 	echo "Hallo Nama : Zharif Hidayat "; 
+ 	echo "Hallo Nama : Zharif Hidayat  "; 
  	
- 	echo "Hallo Nama : Anugrah Prasetya";
+ 	echo "Hallo Nama : Anugrah Prasetya  ";
  	echo "      NIM  : 10111724        ";
+ 
+ 	echo "Hallo Nama : Mahesa Mulyana";
+ 	echo "      NIM  : 10111732        ";
 ?>
